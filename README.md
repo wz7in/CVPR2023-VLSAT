@@ -18,7 +18,8 @@ author)
 
 # Dependencies
 ```bash
-conda create -n py38 python=3.8
+conda create -n vlsat python=3.8
+conda activate vlsat
 pip install -r requirement.txt
 ```
 
