@@ -4,7 +4,19 @@
   <small>:fire: If you found the training scheme in VL-SAT is useful, please help to :star: it or recommend it to your friends. Thanks:fire:</small>
 </p>
 
-# 1、Dependencies
+# Introduction
+This is a release of the code of our paper **_VL-SAT: Visual-Linguistic Semantics Assisted Training for 3D Semantic Scene Graph Prediction in Point Cloud_** (CVPR 2023).
+
+Authors:
+Ziqin Wang,
+Bowen Cheng,
+Lichen Zhao,
+Dong Xu,
+Yang Tang,
+Lu Sheng* (*corresponding
+author)
+
+# Dependencies
 ```bash
 conda create -n py38 python=3.8
 pip install -r requirement.txt
@@ -18,7 +30,7 @@ pip install torch-spline-conv -f https://pytorch-geometric.com/whl/torch-1.12.1+
 pip install torch-geometric
 pip install git+https://github.com/openai/CLIP.git
 ```
-# 2、Prepare the data
+# Prepare the data
 A. Download 3Rscan and 3DSSG-Sub Annotation, you can follow [3DSSG](https://github.com/ShunChengWu/3DSSG#preparation)
 
 B. Generate 2D Multi View Image
