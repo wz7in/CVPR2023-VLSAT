@@ -57,3 +57,6 @@ python -m main --mode train --config <config_path> --exp <exp_name>
 # Eval
 python -m main --mode eval --config <config_path> --exp <exp_name>
 ```
+
+# Acknowledgement
+This repository is partly based on [3DSSG](https://github.com/ShunChengWu/3DSSG) and [CLIP](https://github.com/openai/CLIP) repositories.
