@@ -1,9 +1,10 @@
 ## :book: VL-SAT: Visual-Linguistic Semantics Assisted Training for 3D Semantic Scene Graph Prediction in Point Cloud (CVPR 2023)
+<image src="demo.png" width="100%">
 <p align="center">
   <small>:fire: If you found the training scheme in VL-SAT is useful, please help to :star: it or recommend it to your friends. Thanks:fire:</small>
 </p>
 
-# 1、Prepare the env
+# 1、Dependencies
 ```bash
 conda create -n py38 python=3.8
 pip install -r requirement.txt
