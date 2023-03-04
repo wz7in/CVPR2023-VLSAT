@@ -1,0 +1,160 @@
+armchair
+backpack
+bag
+ball
+bar
+basin
+basket
+bath cabinet
+bathtub
+bed
+bedside table
+bench
+bidet
+bin
+blanket
+blinds
+board
+book
+books
+bookshelf
+bottle
+box
+bread
+bucket
+cabinet
+carpet
+ceiling
+chair
+cleanser
+clock
+closet
+clothes
+clothes dryer
+clutter
+coffee machine
+coffee table
+commode
+computer desk
+couch
+couch table
+counter
+cup
+cupboard
+curtain
+cushion
+cutting board
+decoration
+desk
+dining chair
+dining table
+door
+doorframe
+drawer
+drum
+drying machine
+extractor fan
+fireplace
+floor
+flower
+flowers
+folder
+food
+footstool
+frame
+fruit plate
+garbage
+garbage bin
+grass
+hand dryer
+heater
+item
+jacket
+jar
+kettle
+kitchen appliance
+kitchen cabinet
+kitchen counter
+kitchen hood
+ladder
+lamp
+laptop
+laundry basket
+light
+machine
+magazine rack
+menu
+microwave
+mirror
+monitor
+napkins
+nightstand
+object
+objects
+organizer
+ottoman
+oven
+pack
+pan
+paper towel
+papers
+pc
+picture
+pile of books
+pile of papers
+pillow
+pipe
+plant
+plate
+player
+pot
+printer
+rack
+radiator
+recycle bin
+refrigerator
+rocking chair
+scale
+screen
+shelf
+shoe
+shoe rack
+shoes
+showcase
+shower
+shower curtain
+shower floor
+shower wall
+side table
+sink
+soap dish
+socket
+sofa
+sofa chair
+stair
+stand
+stool
+stove
+stuffed animal
+suitcase
+table
+table lamp
+telephone
+toaster
+toilet
+toilet brush
+toilet paper
+toilet paper dispenser
+towel
+trash can
+trashcan
+tube
+tv
+tv stand
+vase
+wall
+wardrobe
+washing machine
+washing powder
+window
+windowsill

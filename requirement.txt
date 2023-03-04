@@ -1,0 +1,4 @@
+trimesh==3.12.7
+open3d==0.16.0
+tensorboard
+tqdm

@@ -1,0 +1,27 @@
+none
+supported by
+left
+right
+front
+behind
+close by
+inside
+bigger than
+smaller than
+higher than
+lower than
+same symmetry as
+same as
+attached to
+standing on
+lying on
+hanging on
+connected to
+leaning against
+part of
+belonging to
+build in
+standing in
+cover
+lying in
+hanging in
