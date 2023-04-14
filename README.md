@@ -1,4 +1,4 @@
-## :book: VL-SAT: Visual-Linguistic Semantics Assisted Training for 3D Semantic Scene Graph Prediction in Point Cloud (CVPR 2023)
+## :book: VL-SAT: Visual-Linguistic Semantics Assisted Training for 3D Semantic Scene Graph Prediction in Point Cloud (CVPR 2023 Highlight)
 <image src="demo.png" width="100%">
 <p align="center">
   <small>:fire: If you found the training scheme in VL-SAT is useful, please help to :star: it or recommend it to your friends. Thanks:fire:</small>
@@ -6,7 +6,7 @@
 
 
 # Introduction
-This is a release of the code of our paper **_VL-SAT: Visual-Linguistic Semantics Assisted Training for 3D Semantic Scene Graph Prediction in Point Cloud_** (CVPR 2023).
+This is a release of the code of our paper **_VL-SAT: Visual-Linguistic Semantics Assisted Training for 3D Semantic Scene Graph Prediction in Point Cloud_** (CVPR 2023 Highlight).
 
 Authors:
 Ziqin Wang,
