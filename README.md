@@ -4,6 +4,9 @@
   <small>:fire: If you found the training scheme in VL-SAT is useful, please help to :star: it or recommend it to your friends. Thanks:fire:</small>
 </p>
 
+
+[paper](https://arxiv.org/pdf/2303.14408.pdf)
+
 # Introduction
 This is a release of the code of our paper **_VL-SAT: Visual-Linguistic Semantics Assisted Training for 3D Semantic Scene Graph Prediction in Point Cloud_** (CVPR 2023).
 
@@ -67,6 +70,19 @@ python -m main --mode train --config <config_path> --exp <exp_name>
 # Eval
 python -m main --mode eval --config <config_path> --exp <exp_name>
 ```
+
+# Paper
+
+If you find the code useful please consider citing our [paper](https://arxiv.org/pdf/2303.14408.pdf):
+```
+@article{wang2023vl,
+  title={VL-SAT: Visual-Linguistic Semantics Assisted Training for 3D Semantic Scene Graph Prediction in Point Cloud},
+  author={Wang, Ziqin and Cheng, Bowen and Zhao, Lichen and Xu, Dong and Tang, Yang and Sheng, Lu},
+  journal={arXiv preprint arXiv:2303.14408},
+  year={2023}
+}
+```
+
 
 # Acknowledgement
 This repository is partly based on [3DSSG](https://github.com/ShunChengWu/3DSSG) and [CLIP](https://github.com/openai/CLIP) repositories.
