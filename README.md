@@ -5,8 +5,6 @@
 </p>
 
 
-[paper](https://arxiv.org/pdf/2303.14408.pdf)
-
 # Introduction
 This is a release of the code of our paper **_VL-SAT: Visual-Linguistic Semantics Assisted Training for 3D Semantic Scene Graph Prediction in Point Cloud_** (CVPR 2023).
 
@@ -18,6 +16,8 @@ Dong Xu,
 Yang Tang,
 Lu Sheng* (*corresponding
 author)
+
+[[arxiv]](https://arxiv.org/pdf/2303.14408.pdf)  [[code]](https://github.com/wz7in/CVPR2023-VLSAT)
 
 # Dependencies
 ```bash
