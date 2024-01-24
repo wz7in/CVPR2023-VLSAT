@@ -17,7 +17,7 @@ Yang Tang,
 Lu Sheng* (*corresponding
 author)
 
-[[arxiv]](https://arxiv.org/pdf/2303.14408.pdf)  [[code]](https://github.com/wz7in/CVPR2023-VLSAT)
+[[arxiv]](https://arxiv.org/pdf/2303.14408.pdf)  [[code]](https://github.com/wz7in/CVPR2023-VLSAT)  [[checkpoint]](https://drive.google.com/file/d/1_C-LXRlSobupApb-JsajKG5oxKnfKgdx/view?usp=sharing)
 
 # Dependencies
 ```bash
