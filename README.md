@@ -70,6 +70,7 @@ python -m main --mode train --config <config_path> --exp <exp_name>
 # Eval
 python -m main --mode eval --config <config_path> --exp <exp_name>
 ```
+In this repo, we have provided a default [config](https://github.com/wz7in/CVPR2023-VLSAT/blob/main/config/mmgnet.json)
 
 # Paper
 
