@@ -9,7 +9,7 @@ def read_labels(plydata):
     data = plydata.metadata['ply_raw']['vertex']['data']
     try:
         labels = data['objectId']
-    except:
+    except KeyError:
         labels = data['label']
     return labels
 
